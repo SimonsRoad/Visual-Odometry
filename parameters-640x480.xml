@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!-- parametros cam. #none number, resol: 640x480 -->
+<opencv_storage>
+<P1 type_id="opencv-matrix">
+<rows>3</rows> <cols>3</cols>
+<dt>d</dt>
+<data>
+  859.0766         0  303.1821
+         0  858.8083  266.1807
+         0         0    1.0000
+</data>
+</P1>
+
+<P2 type_id="opencv-matrix">
+<rows>3</rows> <cols>3</cols>
+<dt>d</dt>
+<data>
+  869.209256494841611         0  315.733613799657007
+         0  868.978584542873364  233.872398233381006
+         0         0    1.0000
+</data></P2>
+
+<dist1 type_id="opencv-matrix">
+<rows>4</rows> <cols>1</cols>
+<dt>d</dt>
+<data>
+-0.043952464216796
+-0.394016376295092
+-0.003822185006891
+-0.001569759493935
+         
+</data></dist1>
+
+<dist2 type_id="opencv-matrix">
+<rows>4</rows> <cols>1</cols>
+<dt>d</dt>
+<data>
+-0.078124144853382
+-0.047917569440079
+-0.003254459367118
+-0.003270137602041
+         
+</data></dist2>
+
+<R type_id="opencv-matrix">
+<rows>3</rows> <cols>3</cols>
+<dt>d</dt>
+<data>
+0.999970749574221	-0.00356799104226403	0.00676531121926069
+0.00350965407354125	0.999956728467960	0.00861530730384894
+-0.00679575781316597	-0.00859131140036265	0.999940001722187
+
+</data></R>
+
+<T type_id="opencv-matrix">
+<rows>3</rows> <cols>1</cols>
+<dt>d</dt>
+<data> 
+-62.2717762213986
+0.462828410159602
+4.84998904397844
+
+</data></T>
+
+</opencv_storage>
+
